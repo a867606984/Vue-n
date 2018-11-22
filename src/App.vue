@@ -43,11 +43,6 @@ html {
   align-items: center;
 }
 
-.v-container {
-  padding: 20px;
-  background: #fff;
-}
-
 #app {
   position: fixed;
   top: 0;
@@ -62,7 +57,7 @@ html {
   color: #2c3e50;
   border-right: 1px solid #ccc;
   border-left: 1px solid #ccc;
-  background: #e4e4e4;
+  background: #ececec;
 }
 
 .receive {
@@ -133,7 +128,7 @@ html {
       padding: 10px;
       width: 60%;
       border-radius: 5px;
-      background: #2db7f5;
+      background: #fff;
     }
 
     .text {
